@@ -1,0 +1,9 @@
+Este é um projeto simples de jogo utilizando Python para um processo seletivo de um projeto de extensão,'Desenvolvimento de Aplicativos em Linguagem Python', da Universidade Federal do ABC.
+
+Para este projeto eu gostaria de ter consolidado mais meus conhecimentos sobre Python em sí e sobre Orientação a Objetos.
+Ainda não tive a oportunidade de cursar Programação Orientada a Objetos na Universidade, mas pretendo me aperfeiçoar e aplicar este conhecimento em outras versões do jogo.
+
+Neste projeto utilizei as bibliotecas ' os ', 'sys' e 'time'.
+Junto com este arquivo está um arquivo executável do jogo e o código fonte.
+
+O arquivo executável foi gerado utilizando a aplicação 'Auto py to exe' encontrada em ' https://pypi.org/project/auto-py-to-exe/ '
